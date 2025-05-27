@@ -184,3 +184,35 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ignore data files
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# Ignore models and outputs
+models/
+outputs/
+
+# Ignore notebooks' outputs (optional)
+*.nbconvert.ipynb
+
+# Ignore environment files
+.env
+.venv/
+*.env
+*.DS_Store
+
+# Ignore Jupyter runtime
+.ipynb_checkpoints/
+jupyter_notebook_config.py
+
+# VS Code and OS files
+.vscode/
+*.log
