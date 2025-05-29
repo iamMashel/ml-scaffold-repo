@@ -216,3 +216,4 @@ jupyter_notebook_config.py
 # VS Code and OS files
 .vscode/
 *.log
+streamlit_logs/
