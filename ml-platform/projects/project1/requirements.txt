@@ -1,1 +1,4 @@
 #project specific dependencies
+streamlit
+pandas
+plotly
