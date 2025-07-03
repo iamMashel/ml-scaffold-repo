@@ -1,0 +1,27 @@
+name: ml-platform
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
+  - notebook
+  - streamlit
+  - beautifulsoup4
+  - html5lib
+  - lxml
+  - pip
+  - pip:
+      - duckdb
+      - plotly
+      - flake8
+      - black
+      - isort
+      - ipython-sql
+      - python-dotenv

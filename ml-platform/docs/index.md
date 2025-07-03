@@ -2,7 +2,7 @@
 
 ## Description
 
-A horsesheet blanket
+project documentation, guides, architecture
 
 ## Commands
 
