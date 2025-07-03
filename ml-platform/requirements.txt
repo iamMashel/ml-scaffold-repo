@@ -4,4 +4,7 @@ isort
 mkdocs
 pip
 python-dotenv
+plotly
+streamlit
+pandas
 -e .
