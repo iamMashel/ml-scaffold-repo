@@ -1,0 +1,9 @@
+#project specific dependencies
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
